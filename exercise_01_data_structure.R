@@ -1,6 +1,6 @@
 ## ### ## ### ## ### ## ### ## ### ## ### ## ### ## ### ## ### ## ### ## ##
 # 
-# HEADER FÜR R CODE  -- Überschrift und Kurze Beschreibung hier einfügen!
+# Exercise 01 - Datamanagement, Collection and Storage - Michael Stölzle
 #
 #
 # Raffaello Lastrico, DATUM
@@ -23,6 +23,7 @@ setwd(hauptPfad)
 
 
 # benoetigte Pakete laden -------------------------------------------------
+library(tidyverse)
 
 
 # Funktionen definieren ---------------------------------------------------
@@ -40,21 +41,5 @@ internet <- read.csv(importPfad)
 
 # Level 1 -----------------------------------------------------------------
 
-## Erste Sub-Section ------------------------------------------------------
-
-### Erste sub sub section -------------------------------------------------
-
-### Zeite sub sub ----
-
-#### Erste sub sub sub section ----
 
 
-
-# Zweite Section ------------------------------------------------------------
-
-
-
-
-
-
-# Why ====
